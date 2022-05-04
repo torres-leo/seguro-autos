@@ -1,7 +1,7 @@
 import React from 'react';
 import Formulario from './Formulario';
 
-const AppSeguto = () => {
+const AppSeguro = () => {
 	return (
 		<>
 			<header className='my-10'>
@@ -16,4 +16,4 @@ const AppSeguto = () => {
 	);
 };
 
-export default AppSeguto;
+export default AppSeguro;
