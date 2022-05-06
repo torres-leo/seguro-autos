@@ -1,5 +1,5 @@
 # seguro-autos
-**Enlace**:[Cotizador de Seguro de Automóviles](https://cotizador-autos-leo-torres.netlify.app/)
+**Enlace de App**: [Cotizador de Seguro de Automóviles](https://cotizador-autos-leo-torres.netlify.app/)
 
 ## Calculos implementados
 1. Tendremos una base de la cual empezaremos a cotizar el seguro. Base = 3000
